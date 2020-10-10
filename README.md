@@ -1,2 +1,2 @@
-# SyntheWizer
+# SyntheWizard
 -bootstap playground-
