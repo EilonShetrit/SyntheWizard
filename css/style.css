@@ -1,0 +1,28 @@
+.prag span{
+    font-weight: bold;
+}
+.dropdown-item:hover {
+    color: rgba(255, 255, 255, 0.75);
+    background-color: transparent;
+}
+.dropdown-item {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.dropdown-item.active {
+    background-color: transparent;
+}
+.carousel-item img,
+.carousel-item.active img {
+    filter: brightness(0.8);
+    min-height: 250px;
+    max-height: 430px;
+}
+.btn{
+    margin: 10px;
+}
+.card-img, .card-img-top{
+    max-width:250px;
+    min-width: 100px;
+
+}
